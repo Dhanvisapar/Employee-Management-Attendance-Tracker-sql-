@@ -1,7 +1,5 @@
 # Employee-Management-Attendance-Tracker-sql-
 
-# Employee Management & Attendance Tracker
-
 ## Introduction
 This project is a SQL-based Employee Management and Attendance Tracking system designed to store employee details and monitor daily attendance efficiently.
 
